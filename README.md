@@ -7,3 +7,4 @@ INDEX
 - utility of '\__all__'
 - dataclass
 - @atexit
+- decorators
