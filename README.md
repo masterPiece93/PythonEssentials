@@ -8,3 +8,7 @@ INDEX
 - dataclass
 - @atexit
 - decorators
+- dataclass
+- metaclass
+- pickling
+- unittest
