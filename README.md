@@ -1,5 +1,5 @@
 # PythonEssentials
-#### contains python concepts less frequently used 
+
 ------
 INDEX
 ------
