@@ -14,7 +14,7 @@ INDEX
 - unittest
 - doctest
 - method overloading
-  - (mutipledispatch](https://pypi.org/project/multipledispatch/)
+  - [mutipledispatch](https://pypi.org/project/multipledispatch/)
 ## To Explore
 - numba
 - code caching
