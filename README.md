@@ -15,6 +15,14 @@ INDEX
 - doctest
 - method overloading
   - [mutipledispatch](https://pypi.org/project/multipledispatch/)
+- TyoeGuard
+- decorators
+  - function based
+  - class based
+  - parameter based
+  - concept as a pattern in API development
+  - most common use-cases/examples in python web api development
+
 ## To Explore
 - numba
 - code caching
