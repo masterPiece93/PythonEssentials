@@ -13,7 +13,8 @@ INDEX
 - pickling
 - unittest
 - doctest
-
+- method overloading
+  - (mutipledispatch](https://pypi.org/project/multipledispatch/)
 ## To Explore
 - numba
 - code caching
