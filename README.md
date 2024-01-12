@@ -40,8 +40,8 @@ INDEX
       
     <br>
       
-    1. I want to send an email once the api have done it's working & the api must return/close. So the email sending operation must not block the api & must run in backround . It may run either as a daemon thread OR a seperate process .
-    2. In an api call , if the content/result exists it is returned else a backgroud processing to produce the content is started & api exists .
+    **1.** I want to send an email once the api have done it's working & the api must return/close. So the email sending operation must not block the api & must run in backround . It may run either as a daemon thread OR a seperate process .
+    **2.** In an api call , if the content/result exists it is returned else a backgroud processing to produce the content is started & api exists .
        In successive api calls , if the status of backgroud process is `Done` then content is fetched from cache/db based on process-id else api exists .
   </details>
 
