@@ -35,6 +35,14 @@ INDEX
 - @atexit
 - pickling
 - Daemon Threading & backgroud processes `level-0`
+    <details>
+    <summary>use case</summary>
+      
+    <br>
+      
+    1. I want to send an email once the api have done it's working & the api must return/close. So the email
+  </details>
+
 - numba `level-0`
 - code caching
     - [read on real python](https://realpython.com/lru-cache-python/)
