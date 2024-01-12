@@ -4,33 +4,49 @@
 INDEX
 ------
 - utility of '\__slots__'
+  
 - utility of '\__all__'
-- dataclass
-- @atexit
-- decorators
-- dataclass
-- metaclass
-- pickling
-- unittest
-- doctest
-- method overloading
+
+- dataclass `level-2`
+
+- unittest `level-2`
+
+- method overloading `level-1`
   - [mutipledispatch](https://pypi.org/project/multipledispatch/)
-- TyoeGuard
-- decorators
+ 
+- TyoeGuard `level-1`
+
+- decorators `level-2`
   - function based
   - class based
   - parameter based
   - concept as a pattern in API development
   - most common use-cases/examples in python web api development
-
-## To Explore
-- numba
-- code caching
-    - [read on real python](https://realpython.com/lru-cache-python/)
-- [functools-higherorder functions](https://docs.python.org/3/library/functools.html#module-functools)
-- tempfile
-- `C` in Python
+    
+- `C` in Python `level-1`
   - ctypes
   - cython
   - cffi
   - [perfomance comparision](https://github.com/mattip/c_from_python)
+ 
+## To Explore
+- doctest `level-0`
+- metaclass `level-0`
+- @atexit
+- pickling
+- Daemon Threading & backgroud processes `level-0`
+- numba `level-0`
+- code caching
+    - [read on real python](https://realpython.com/lru-cache-python/)
+- [functools-higherorder functions](https://docs.python.org/3/library/functools.html#module-functools)
+- tempfile
+
+
+**
+LEVELS :
+`level-0` : just read about it & know something like this exists
+`level-1` : tried out , or have a workspace designated on it where you have tried once or twice
+`level-2` : have implemented in live projects & can decide when to apply it .
+`level-3` : can implement/use without searching over net (syntax is frogiven)
+`level-4` : proficient and used uncountable times.
+`level-5` : can teach
