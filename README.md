@@ -4,6 +4,7 @@
 INDEX
 ------
 - utility of '\__slots__'
+  - [YouTube Link](https://www.youtube.com/watch?v=1UBr94hg0FE)
   
 - utility of '\__all__'
 
