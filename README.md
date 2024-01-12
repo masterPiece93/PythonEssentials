@@ -44,9 +44,15 @@ INDEX
 
 **
 LEVELS :
+
 `level-0` : just read about it & know something like this exists
+
 `level-1` : tried out , or have a workspace designated on it where you have tried once or twice
+
 `level-2` : have implemented in live projects & can decide when to apply it .
+
 `level-3` : can implement/use without searching over net (syntax is frogiven)
+
 `level-4` : proficient and used uncountable times.
+
 `level-5` : can teach
