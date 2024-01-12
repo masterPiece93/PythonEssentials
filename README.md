@@ -29,11 +29,17 @@ INDEX
   - cython
   - cffi
   - [perfomance comparision](https://github.com/mattip/c_from_python)
+
+- Make Daemon Service ( on Linux) of a Python Script that does Multi Threading or Multi Processing
+  - [YouTube Link](https://www.youtube.com/watch?v=PVIzokTJdVM)
+  - [YouTube Link](https://www.youtube.com/watch?v=pLqtenLVKsg)
  
 ## To Explore
+- signal
 - doctest `level-0`
 - metaclass `level-0`
 - @atexit
+  - [YouTube Link](https://www.youtube.com/watch?v=PVIzokTJdVM)
 - pickling
 - Daemon Threading & backgroud processes `level-0`
     <details>
