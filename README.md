@@ -33,7 +33,11 @@ INDEX
 - Make Daemon Service ( on Linux) of a Python Script that does Multi Threading or Multi Processing
   - [YouTube Link](https://www.youtube.com/watch?v=PVIzokTJdVM)
   - [YouTube Link](https://www.youtube.com/watch?v=pLqtenLVKsg)
- 
+
+- Documenting python code `level-1`
+  - [YouTube Link](https://realpython.com/documenting-python-code/)
+
+
 ## To Explore
 - signal
 - doctest `level-0`
