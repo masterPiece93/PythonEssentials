@@ -1,4 +1,10 @@
 # PythonEssentials
+---------------------
+REPO CODE DESCRIPTION
+---------------------
+
+- aValidationApproach : describes how to do input/data validation in a python project
+- module_exports : use of `__all__` in module exporting & right way of exporing something out of a python module
 
 ------
 INDEX
